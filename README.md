@@ -7,7 +7,7 @@
 
 Questo è il corso che fa per te!
 
-Impareremo Spring Data JPA scrivendo tanto codice insieme, passo a passo, e durante lo sviluppo introdurremo le tecnologie fondamentali per la conoscenza di Spring Data JPA.
+Impareremo Spring Data JPA scrivendo tanto codice insieme e durante lo sviluppo introdurremo le tecnologie fondamentali per la conoscenza di Spring Data JPA.
 
 ## In questo repository trovi il codice sviluppato in queste lezioni.
 
