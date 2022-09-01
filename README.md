@@ -14,7 +14,7 @@ Impareremo Spring Data JPA scrivendo tanto codice insieme e durante lo sviluppo 
 Tutorial Spring Data JPA in 2 ore : il tutorial per imparare Spring Data JPA in pochissimo tempo, con meno teoria e più pratica! 
 
 ## Vuoi seguire tutto il tutorial? Eccoti il link dei video! :) 
-https://www.youtube.com/watch?v=i38gL3jihYw
+https://www.youtube.com/watch?v=g8jFn__KxkI&list=PLl8lST6xZTJZQ0uYu9sxdfLNRxLQOdSky
 
 Buono studio! :)
 
